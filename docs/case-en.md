@@ -136,3 +136,7 @@ That explains the fourth number: coverage was high, engagement was low. Publicly
 ---
 
 *Sichuan North Road Sub-district Community Placemaking Team (川造社) · October 2026 · This case is open under CC BY 4.0 — cite it, rewrite it, argue with it. If a number needs correcting, open an issue.*
+
+**Cite this version**: DOI [10.5281/zenodo.23499786](https://doi.org/10.5281/zenodo.23499786) (freezes the v1.1.1 snapshot)
+
+

@@ -4,6 +4,9 @@
 Urban renewal · community placemaking · heritage-led regeneration · Shanghai, China
 [中文版 README](#中文摘要) · [Read the case (English)](docs/case-en.md) · [阅读案例（中文）](docs/case-zh.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23499786.svg)](https://doi.org/10.5281/zenodo.23499786)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+
 ---
 
 ## What this is
@@ -86,16 +89,18 @@ flowchart LR
   author = {{Sichuan North Road Sub-district Community Placemaking Team}},
   year   = {2026},
   note   = {Open case study, CC BY 4.0},
+  doi    = {10.5281/zenodo.23499786},
   url    = {https://github.com/Yun1976/duolunlu-community-renewal}
 }
 ```
 
 See [CITATION.cff](CITATION.cff) for the machine-readable form.
 
-**Stable reference.** Until a DOI is issued from a Zenodo-linked release, cite this
-repository together with its release tag (for example `v1.1.1`) so the reference
-points at one snapshot rather than "whatever main says today". The publishing kit
-explains why a DOI, not a link, is what makes a case citable across platforms:
+**Stable reference.** Cite the version DOI `10.5281/zenodo.23499786` — it resolves to
+one frozen snapshot (v1.1.1), independent of this repository, of any platform, and
+of whether GitHub is reachable that day. The concept DOI `10.5281/zenodo.23499785`
+always points at the latest version. The publishing kit explains why a numbered
+anchor, not a link, is what makes a case citable across Chinese platforms:
 [docs/publish-kit.md](docs/publish-kit.md#5-信源卡每条发布都必须带这一段复制即用).
 
 ## License

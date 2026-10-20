@@ -121,9 +121,9 @@ The full bilingual case, with numbers, limits and an explicit list of what it do
 
 ```
 —— 信源 ——
-案例：《多伦路社区营造 2026》v1.1.0 · 中英双语 · CC BY 4.0
+案例：《多伦路社区营造 2026》v1.1.1 · 中英双语 · CC BY 4.0
 原件：github.com/Yun1976/duolunlu-community-renewal
-长期引用：DOI 待签（Zenodo）｜版本日期 2026-10-20
+长期引用：DOI 10.5281/zenodo.23499786｜概念 DOI 10.5281/zenodo.23499785
 团队：四川北路街道社区营造团队（川造社）
 ```
 
@@ -131,19 +131,21 @@ The full bilingual case, with numbers, limits and an explicit list of what it do
 
 ```
 —— Source ——
-Case: Duolun Road Community Renewal 2026, v1.1.0 · bilingual · CC BY 4.0
+Case: Duolun Road Community Renewal 2026, v1.1.1 · bilingual · CC BY 4.0
 Canonical: github.com/Yun1976/duolunlu-community-renewal
-Permanent reference: DOI pending (Zenodo) · version 2026-10-20
+Permanent reference: DOI 10.5281/zenodo.23499786 (concept 10.5281/zenodo.23499785)
 Team: Sichuan North Road Sub-district Community Placemaking Team
 ```
 
 **为什么是 DOI 而不是链接**：链接会失效、会被平台拦截、会被地区网络影响；DOI 是一串不依赖任何平台的编号，注册在 DataCite 上，任何一天、任何国家、任何机构都能反向解析到同一版快照。这是"信源"这两个字真正的含义。
 
-### 开通 DOI 的步骤（需要你操作，约五分钟）
+### 开通 DOI 的步骤（已完成 2026-10-20，结果见下）
+
+> **已签发**：版本 DOI `10.5281/zenodo.23499786`（冻结 v1.1.1 快照）｜概念 DOI `10.5281/zenodo.23499785`（始终指向最新版）。以下步骤留档，供下一个仓库复用。
 
 1. 用 GitHub 账号登录 `zenodo.org`（Login → GitHub）
 2. 在 Settings → GitHub 里找到本仓库，把开关打开（这一步只是授权，不发布任何东西）
-3. 回到 GitHub，从 `v1.1.0` 建一个 Release（Releases → Draft a new release → 选 tag `v1.1.0` → 粘贴第 2 节英文摘要 → Publish）
+3. 回到 GitHub，从 `v1.1.1` 建一个 Release（Releases → Draft a new release → 选 tag `v1.1.1` → 粘贴英文摘要 → Publish）
 4. Zenodo 会在几秒内自动为该 release 生成 DOI，形状是 `10.5281/zenodo.XXXXXXX`
 5. 把 DOI 回填到本文件、README 的 Citation 段、以及每个平台的信源卡里
 
@@ -185,5 +187,8 @@ Team: Sichuan North Road Sub-district Community Placemaking Team
 
 | 日期 | 渠道 | 链接 | 备注 |
 |---|---|---|---|
-| 2026-10-20 | GitHub | https://github.com/Yun1976/duolunlu-community-renewal | v1.1.0，中英双语，CC BY 4.0 |
+| 2026-10-20 | GitHub Release + Zenodo | [v1.1.1](https://github.com/Yun1976/duolunlu-community-renewal/releases/tag/v1.1.1) | DOI `10.5281/zenodo.23499786`（概念 DOI `10.5281/zenodo.23499785`），中英双语，CC BY 4.0 |
+
+
+
 
