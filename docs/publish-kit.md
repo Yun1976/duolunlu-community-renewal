@@ -113,7 +113,60 @@ The full bilingual case, with numbers, limits and an explicit list of what it do
 > Best regards,
 > [name], Sichuan North Road Sub-district Community Placemaking Team (川造社)
 
-## 5. 渠道清单（按我判断的杠杆排序，标注确定性）
+## 5. 信源卡（每条发布都必须带这一段，复制即用）
+
+中文网的问题不是"没人看"，是**平台之间互不承认**：公众号内容出不了微信、知乎链接在微信里被拦、小红书不给外链、AI 抓不到带登录墙的页面。所以每篇文章都得自带一个**不依赖任何平台的锚**。
+
+固定四行，放在正文末尾（不要放在开头，会被判成广告）：
+
+```
+—— 信源 ——
+案例：《多伦路社区营造 2026》v1.1.0 · 中英双语 · CC BY 4.0
+原件：github.com/Yun1976/duolunlu-community-renewal
+长期引用：DOI 待签（Zenodo）｜版本日期 2026-10-20
+团队：四川北路街道社区营造团队（川造社）
+```
+
+英文版：
+
+```
+—— Source ——
+Case: Duolun Road Community Renewal 2026, v1.1.0 · bilingual · CC BY 4.0
+Canonical: github.com/Yun1976/duolunlu-community-renewal
+Permanent reference: DOI pending (Zenodo) · version 2026-10-20
+Team: Sichuan North Road Sub-district Community Placemaking Team
+```
+
+**为什么是 DOI 而不是链接**：链接会失效、会被平台拦截、会被地区网络影响；DOI 是一串不依赖任何平台的编号，注册在 DataCite 上，任何一天、任何国家、任何机构都能反向解析到同一版快照。这是"信源"这两个字真正的含义。
+
+### 开通 DOI 的步骤（需要你操作，约五分钟）
+
+1. 用 GitHub 账号登录 `zenodo.org`（Login → GitHub）
+2. 在 Settings → GitHub 里找到本仓库，把开关打开（这一步只是授权，不发布任何东西）
+3. 回到 GitHub，从 `v1.1.0` 建一个 Release（Releases → Draft a new release → 选 tag `v1.1.0` → 粘贴第 2 节英文摘要 → Publish）
+4. Zenodo 会在几秒内自动为该 release 生成 DOI，形状是 `10.5281/zenodo.XXXXXXX`
+5. 把 DOI 回填到本文件、README 的 Citation 段、以及每个平台的信源卡里
+
+> 说明：Zenodo 的 GitHub 集成我按通用做法写的，但对当前界面细节我不确定——第 2、3 步的实际位置可能变了。你点开看到的东西和我描述不一致时，以页面为准。
+
+### 另一条纪律：正文必须自含事实
+
+关键数字**不能只放在外链里**。哪怕全文只有 300 字，也要在正文里出现"1,013 次阅读""35.8 万赞"这些数字——否则当链接被掐、被折叠、被摘要截断时，读者和 AI 拿到的是一段没有事实的感想。
+
+## 6. 抗封锁分发：一处原创，两处镜像
+
+| 层级 | 放什么 | 为什么必需 | 风险 |
+|---|---|---|---|
+| 原件 | GitHub 仓库 | 国际同行与 AI 的可信锚点；版本可追溯 | 中国大陆访问不稳定，不能作为唯一入口 |
+| 中文全文镜像 | 知乎专栏文章（或公众号长文） | 中文搜索与 AI 回答的主要语料来源；平台内打开无门槛 | 平台可限流、可删稿；无版本控制 |
+| 编号锚 | Zenodo DOI | 跨平台、跨语言、不依赖任何一家公司 | 需一次性开通；快照不可改（这正是它的价值） |
+| 可选 | Gitee 镜像 | 大陆访问稳定，适合工程型读者 | 需要额外维护同步；与 GitHub 有双轨漂移风险 |
+
+**不做的**：不复制到十几个平台。三处足够——原件、中文全文、编号锚。散得太开，反而没人知道哪一份是当前版。
+
+---
+
+## 7. 渠道清单（按我判断的杠杆排序，标注确定性）
 
 | 优先级 | 渠道 | 为什么 | 我能做什么 | 确定性 |
 |---|---|---|---|---|
@@ -128,8 +181,9 @@ The full bilingual case, with numbers, limits and an explicit list of what it do
 
 **顺序建议**：先 1、3（自有阵地，零门槛），再 5、4（外部背书），最后 7（学术沉淀）。反过来做，前两步没内容可背书。
 
-## 6. 已发布记录（发完就补一行）
+## 8. 已发布记录（发完就补一行）
 
 | 日期 | 渠道 | 链接 | 备注 |
 |---|---|---|---|
 | 2026-10-20 | GitHub | https://github.com/Yun1976/duolunlu-community-renewal | v1.1.0，中英双语，CC BY 4.0 |
+

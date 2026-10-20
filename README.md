@@ -92,6 +92,12 @@ flowchart LR
 
 See [CITATION.cff](CITATION.cff) for the machine-readable form.
 
+**Stable reference.** Until a DOI is issued from a Zenodo-linked release, cite this
+repository together with its release tag (for example `v1.1.1`) so the reference
+points at one snapshot rather than "whatever main says today". The publishing kit
+explains why a DOI, not a link, is what makes a case citable across platforms:
+[docs/publish-kit.md](docs/publish-kit.md#5-信源卡每条发布都必须带这一段复制即用).
+
 ## License
 
 Text and data: **CC BY 4.0** — reuse with attribution, including commercially.
