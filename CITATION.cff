@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this case study, please cite it as below."
+title: "Duolun Road Community Renewal: a 2026 field case from Shanghai"
+abstract: >-
+  A field case study of urban renewal and community placemaking on Duolun Road,
+  a 550-metre historic street in Hongkou District, Shanghai, designated a
+  "Culture Celebrity Street" in 1999 and left largely untouched for nearly three
+  decades. Documents a five-phase method (ice-breaking, diagnosis, emergence,
+  integration, cultivation), the mechanisms that connected fragmented property
+  and merchant interests to a renewal pipeline, six public activities, and the
+  finding that media coverage did not translate into public discussion.
+type: report
+authors:
+  - name: "Sichuan North Road Sub-district Community Placemaking Team"
+    alias: "川造社"
+version: 1.0.0
+date-released: "2026-10-20"
+license: CC-BY-4.0
+url: "https://github.com/Yun1976/duolunlu-community-renewal"
+repository-code: "https://github.com/Yun1976/duolunlu-community-renewal"
+keywords:
+  - urban renewal
+  - community placemaking
+  - historic district
+  - heritage-led regeneration
+  - participatory planning
+  - merchant engagement
+  - Shanghai
+  - China
+  - 城市更新
+  - 社区营造
+  - 历史街区
+  - 多伦路
+language: en

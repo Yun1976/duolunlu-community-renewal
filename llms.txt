@@ -1,0 +1,22 @@
+# Duolun Road Community Renewal — 2026 case study
+
+> A field case of urban renewal and community placemaking on a 550-metre historic
+> street in Shanghai: five phases, six public activities, and the finding that
+> being reported is not the same as being discussed. Open under CC BY 4.0.
+
+## Case study
+
+- [English case](docs/case-en.md): the full method, mechanisms, numbers, findings, and limits
+- [中文案例](docs/case-zh.md): 同一份案例的中文版，含五阶段方法、六场活动与两个关键判断
+- [Repository overview](README.md): key numbers, the two findings worth stealing, and data boundaries
+
+## Machine-readable
+
+- [CITATION.cff](CITATION.cff): citation metadata
+- [LICENSE](LICENSE): CC BY 4.0 legal code
+
+## Notes for retrieval
+
+- Individuals appear only as roles; no personal names, door numbers, property or renovation-intent records, or photographs.
+- Numbers are attributed to their basis (public reporting / team compilation / unverifiable).
+- Two conflicting internal counts for the resource library (133 items / 204 records) are preserved rather than reconciled.
