@@ -1,0 +1,168 @@
+{
+  "name": {
+    "zh": "多伦路社区营造",
+    "en": "Duolun Road Community Renewal"
+  },
+  "location": {
+    "street": "多伦路 (Duolun Road)",
+    "subdistrict": "四川北路街道 (Sichuan North Road Sub-district)",
+    "district": "虹口区 (Hongkou District)",
+    "city": "上海 (Shanghai)",
+    "country": "中国 (China)"
+  },
+  "initiators": {
+    "zh": "四川北路街道社区营造团队（川造社）",
+    "en": "Sichuan North Road Sub-district Community Placemaking Team"
+  },
+  "methods_and_mechanisms_2026": {
+    "five_phase_method": {
+      "1_ice_breaking": {
+        "zh": "破冰：市集嵌入式调研＋居委座谈＋商户逐户走访",
+        "en": "Ice-breaking: market-embedded research, neighbourhood-committee sessions, door-to-door merchant interviews"
+      },
+      "2_diagnosis": {
+        "zh": "探索：活化诊断会＋五议题全民投票",
+        "en": "Diagnosis: revitalisation clinic and ballot on five issues (management, merchants, space, footfall, positioning)"
+      },
+      "3_emergence": {
+        "zh": "涌现：商户自发参与、政校企协同、针灸式业态活化",
+        "en": "Emergence: merchant self-organisation, university–government–enterprise collaboration, acupuncture upgrades"
+      },
+      "4_integration": {
+        "zh": "整合：八维度资源库＋六环节PDCA＋成套工具包",
+        "en": "Integration: eight-dimension resource library, six-step PDCA loop, toolkit"
+      },
+      "5_cultivation": {
+        "zh": "培育：分层培育商业活力、共治体系、文化生长力",
+        "en": "Cultivation: tiered commercial development, co-governance layer, cultural vitality"
+      }
+    },
+    "working_mechanism": {
+      "zh": "三师联创 + 社区营造（规划师、建筑师、评估师与街道社区营造团队融合共营）",
+      "en": "Three professions co-creation + community placemaking (planners, architects, appraisers with placemaking team)"
+    },
+    "resource_library_entries": 133,
+    "merchant_typology_tiers": ["A_actors", "B_observers", "C_conservatives", "D_insufficient_information"]
+  },
+  "public_activities": [
+    {
+      "date": "2026-04-25",
+      "name": {
+        "zh": "多伦市集剧场第三季",
+        "en": "Duolun Market Theatre, season 3"
+      },
+      "team_role": {
+        "zh": "参与（非主办）",
+        "en": "Participant (not organiser)"
+      },
+      "source": "docs/case-en.md, docs/case-zh.md"
+    },
+    {
+      "date": "2026-06-13",
+      "name": {
+        "zh": "多伦路·新生活商业活化诊断会",
+        "en": "Duolun Road · New Life commercial revitalisation clinic"
+      },
+      "team_role": {
+        "zh": "承办",
+        "en": "Organiser"
+      },
+      "source": "docs/case-en.md, docs/case-zh.md"
+    },
+    {
+      "date": "2026-07-20",
+      "date_end": "2026-07-24",
+      "name": {
+        "zh": "街区更新设计工作坊（暑期设计快闪）",
+        "en": "Street renewal design workshop (summer design pop-up)"
+      },
+      "team_role": {
+        "zh": "全程支持",
+        "en": "Full support"
+      },
+      "source": "docs/case-en.md, docs/case-zh.md"
+    },
+    {
+      "date": "2026-09-05",
+      "name": {
+        "zh": "慢忆虹口、对话时光老物件展",
+        "en": "Slow memories of Hongkou objects exhibition"
+      },
+      "team_role": {
+        "zh": "策划执行",
+        "en": "Planning and delivery"
+      },
+      "source": "docs/case-en.md, docs/case-zh.md"
+    },
+    {
+      "date": "2026-09-30",
+      "name": {
+        "zh": "非遗拼贴体验",
+        "en": "Intangible-heritage collage workshop"
+      },
+      "team_role": {
+        "zh": "组织",
+        "en": "Organiser"
+      },
+      "source": "docs/case-en.md, docs/case-zh.md"
+    },
+    {
+      "date": "2026-10-14",
+      "name": {
+        "zh": "高校跨学科走访",
+        "en": "University interdisciplinary field visit"
+      },
+      "team_role": {
+        "zh": "组织",
+        "en": "Organiser"
+      },
+      "source": "docs/case-en.md, docs/case-zh.md"
+    }
+  ],
+  "counterintuitive_communication_findings": [
+    {
+      "finding": {
+        "zh": "被报道不等于被讨论：30多条报道、15家媒体，但阅读量仅1000多次；街区泛内容单条点赞35.8万",
+        "en": "Being reported is not being discussed: 30+ media items across 15+ outlets, yet verifiable reads were 1,013 across four government-portal articles; street-level content reached 358,000 likes on a single post"
+      },
+      "explanation": {
+        "zh": "活动专属内容供给不足，平台讨论的是"街区"，不是"活动"",
+        "en": "Activity-specific content supply was insufficient, so platforms discuss the street, not the event"
+      },
+      "source": "README.md, docs/case-en.md, docs/case-zh.md"
+    },
+    {
+      "finding": {
+        "zh": "共识从协作中生长而非从结构中来：智力主体从商户协作中自下而上生长",
+        "en": "Consensus grows from collaboration, not from structure: the governing body should emerge bottom-up from merchant collaboration"
+      },
+      "explanation": {
+        "zh": "在"管理之困"这个最难的问题上，投票反而呈现最强共识：治理主体应从商户协作中自下而上生长",
+        "en": "On management — the issue with the least obvious answer — the ballot showed the strongest agreement"
+      },
+      "source": "README.md, docs/case-en.md, docs/case-zh.md"
+    }
+  ],
+  "revenue_model": {
+    "value": null,
+    "note": "造血/盈利逻辑 not documented in the repository's public materials (README.md, docs/case-en.md, docs/case-zh.md, docs/publish-kit.md)"
+  },
+  "repository_url": "https://github.com/Yun1976/duolunlu-community-renewal",
+  "last_updated": "2026-10-20",
+  "sources": {
+    "project_name": "README.md",
+    "location": "README.md, docs/case-en.md, docs/case-zh.md",
+    "initiators": "README.md, docs/case-en.md, docs/case-zh.md",
+    "methods_and_mechanisms": "README.md, docs/case-en.md, docs/case-zh.md",
+    "public_activities": "docs/case-en.md (section 4), docs/case-zh.md (section 4)",
+    "communication_findings": "README.md (section 'Two findings worth stealing'), docs/case-en.md (section 5), docs/case-zh.md (section 5)",
+    "repository_url": "README.md, docs/publish-kit.md"
+  },
+  "metadata": {
+    "version": "1.0",
+    "license": "CC BY 4.0",
+    "doi_version": "10.5281/zenodo.23499786",
+    "doi_concept": "10.5281/zenodo.23499785",
+    "encoding": "UTF-8"
+  }
+}
