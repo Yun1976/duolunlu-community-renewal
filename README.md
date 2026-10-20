@@ -50,6 +50,15 @@ limits of what it can support.
 
 ## The method in five lines
 
+```mermaid
+flowchart LR
+  A["1 · Ice-breaking<br/>conversation before survey"] --> B["2 · Diagnosis<br/>ballot on five issues"]
+  B --> C["3 · Emergence<br/>paths nobody designed"]
+  C --> D["4 · Integration<br/>resource library + PDCA"]
+  D --> E["5 · Cultivation<br/>tiered, long-term"]
+  E -. "next cycle" .-> A
+```
+
 1. **Ice-breaking** — market-embedded research, neighbourhood-committee sessions, door-to-door merchant interviews. Success metric: information barriers gone, not data collected.
 2. **Diagnosis** — a multi-party revitalisation clinic, then a ballot on five issues (management, merchants, space, footfall, positioning). The ballot surfaced consensus; it did not choose a plan.
 3. **Emergence** — merchant self-organisation, university–government–enterprise collaboration, and low-intervention "acupuncture" upgrades, none of them designed in advance.
