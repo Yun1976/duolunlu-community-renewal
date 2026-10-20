@@ -13,7 +13,7 @@ type: report
 authors:
   - name: "Sichuan North Road Sub-district Community Placemaking Team"
     alias: "川造社"
-version: 1.0.0
+version: 1.0.1
 date-released: "2026-10-20"
 license: CC-BY-4.0
 url: "https://github.com/Yun1976/duolunlu-community-renewal"

@@ -65,7 +65,7 @@ Three pathways were not planned; they were pulled into existence by resources an
 - **A six-step PDCA loop**: research → social mobilisation → resource linking → event planning → commercial implementation → institution building, with the sixth step feeding back into the first
 - **A toolkit**: property map, merchant ledger, action plan, design drawings, cultural tourism framework, cultural and creative matrix
 
-> Note on figures: two different counts for the resource library — "133 items" and "204 records" — appear on different source pages, both attributed to the same eight-dimension library. This document preserves both rather than reconciling them; the team should confirm the canonical number before third-party citation.
+> Note on counts: the resource library is cited as **133 structured entries**. The eight per-dimension counts on the source page (4 + 66 + 18 + 8 + 14 + 8 + 11 + 4) sum exactly to 133 and can be checked item by item. An internal total of 204 also appears; it exceeds 133 by 71, which happens to equal the sum of the survey artefacts visible in the same deck (42 catalogued records + 4 research archive entries + 20 valid questionnaires + 5 visitor feedbacks). The source does not state that composition, and questionnaires and interviews are not public material — so only 133 is cited externally.
 
 One design principle deserves its own line: **multi-source cross-validation**. The resource library views and archives, valid questionnaires, site visits, and visitor feedback are used to check one another. No single source is trusted alone.
 

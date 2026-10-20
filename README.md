@@ -66,7 +66,7 @@ limits of what it can support.
 
 - No personal names, no shop door numbers, no property or renovation-intent records, no resident photographs. Individuals appear only as roles.
 - Sample sizes in the field research were small (dozens of questionnaires, targeted interviews). Conclusions guide action; they do not support statistical inference.
-- Two internal counts for the resource library (133 items / 204 records) appear on different source pages. Both are preserved; the team has not reconciled them, and this document does not pretend otherwise.
+- Two internal counts appear for the resource library. The cited number is **133 structured entries** — the eight per-dimension counts in the source deck sum exactly to 133. The other figure (204) includes survey artefacts that are not public material, so it is not used in citations. See the note in [the case](docs/case-en.md).
 - All figures trace back to public reporting or platform pages collected by the team; data that cannot be verified publicly is marked as such.
 
 ## Citation
@@ -102,7 +102,7 @@ repository indexes them as facts and does not republish their text.
 1. **被报道 ≠ 被讨论**。30+ 条报道、15+ 家媒体，可核验阅读量只有 1,013 次；而街区泛内容单条点赞可达 35.8 万——因为活动专属内容供给不足，平台讨论的是"街区"，不是"活动"。
 2. **共识从协作中生长，不从结构中来**。在"管理之困"这个最难的问题上，投票反而呈现最强共识：治理主体应从商户协作中自下而上生长。
 
-**边界**：不含真实姓名、门牌号、产权与改造意愿记录、居民照片；调研样本量小，结论用于指导动作而非统计推断；资源库存在两个原始口径（133 项／204 条），本文并列保留、不代为统一。
+**边界**：不含真实姓名、门牌号、产权与改造意愿记录、居民照片；调研样本量小，结论用于指导动作而非统计推断；资源库对外统一口径为 **133 条结构化条目**（八维度分项相加即 133，可逐项核对），内部 204 条的总量口径含问卷/走访/反馈等不可公开材料，不对外引用。
 
 全文见 [docs/case-zh.md](docs/case-zh.md)（中文）与 [docs/case-en.md](docs/case-en.md)（英文）。
 

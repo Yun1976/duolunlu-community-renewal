@@ -19,4 +19,4 @@
 
 - Individuals appear only as roles; no personal names, door numbers, property or renovation-intent records, or photographs.
 - Numbers are attributed to their basis (public reporting / team compilation / unverifiable).
-- Two conflicting internal counts for the resource library (133 items / 204 records) are preserved rather than reconciled.
+- Resource library: cite **133 structured entries** (the eight per-dimension counts sum to 133). An internal 204 total includes survey artefacts and is not cited.
