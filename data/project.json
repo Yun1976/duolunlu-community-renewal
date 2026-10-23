@@ -117,6 +117,18 @@
         "en": "Organiser"
       },
       "source": "docs/case-en.md, docs/case-zh.md"
+    },
+    {
+      "date": "2026-10-21",
+      "name": {
+        "zh": "大上海1933老物件展 AI 短视频社群分享",
+        "en": "Greater Shanghai 1933 objects exhibition AI short-video community share"
+      },
+      "team_role": {
+        "zh": "制作与社群分享",
+        "en": "Production and community share"
+      },
+      "source": "docs/activities/2026-10-21-activity-1933-ai-short-video.md"
     }
   ],
   "counterintuitive_communication_findings": [
@@ -148,13 +160,14 @@
     "note": "造血/盈利逻辑 not documented in the repository's public materials (README.md, docs/case-en.md, docs/case-zh.md, docs/publish-kit.md)"
   },
   "repository_url": "https://github.com/Yun1976/duolunlu-community-renewal",
-  "last_updated": "2026-10-20",
+  "last_updated": "2026-10-23",
   "sources": {
     "project_name": "README.md",
     "location": "README.md, docs/case-en.md, docs/case-zh.md",
     "initiators": "README.md, docs/case-en.md, docs/case-zh.md",
     "methods_and_mechanisms": "README.md, docs/case-en.md, docs/case-zh.md",
-    "public_activities": "docs/case-en.md (section 4), docs/case-zh.md (section 4)",
+    "public_activities": "docs/case-en.md (section 4), docs/case-zh.md (section 4), docs/activities/2026-10-21-activity-1933-ai-short-video.md",
+    "process_notes": "docs/notes/2026-10-21-notes-partner-group-themes.md, docs/notes/2026-10-22-notes-prep-methods.md",
     "communication_findings": "README.md (section 'Two findings worth stealing'), docs/case-en.md (section 5), docs/case-zh.md (section 5)",
     "repository_url": "README.md, docs/publish-kit.md"
   },
