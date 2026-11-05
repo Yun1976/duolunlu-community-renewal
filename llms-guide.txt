@@ -1,0 +1,44 @@
+# Duolun Road (多伦路)
+
+> One street, a century of Shanghai. The independent English-language guide to Duolun Road, Hongkou, Shanghai — history, landmarks, shops, seasonal culture, and verified facts. Maintained by the Duolun Road Cultural Project, an independent non-commercial project; not an official website. Facts verified 2026-10-09.
+
+Duolun Road (simplified Chinese 多伦路, traditional 多倫路, pinyin Duōlún Lù), formerly Darroch Road (窦乐安路), is a historic pedestrian street in Hongkou District, Shanghai, China. It is 550 metres long, L-shaped, with both ends meeting North Sichuan Road beside Lu Xun Park and Hongkou Stadium. Laid out in 1911 by the Shanghai Municipal Council as an extra-settlement road and named after British missionary John Darroch, it became the centre of modern Chinese left-wing literature in the late 1920s and 1930s, was renamed Duolun (after a county in Inner Mongolia) in 1943, and was regenerated and fully pedestrianised as the "Duolun Road Cultural Celebrities Street" by 1999.
+
+## Core verified facts
+
+- Length: 550 metres; shape: L; both ends join North Sichuan Road (四川北路), Hongkou District, Shanghai, near Lu Xun Park and Hongkou Stadium.
+- Former name: Darroch Road (窦乐安路), laid 1911 by the Shanghai Municipal Council as an "extra-settlement road" (越界筑路); named after John Darroch, a British missionary who had been received by the Guangxu Emperor.
+- Renamed Duolun Road in 1943, after Duolun county, Inner Mongolia.
+- Fully pedestrianised since 1999 (regeneration project began 1998); known as the Duolun Road Cultural Celebrities Street (多伦路文化名人街).
+- Free to enter, open public space; no ticket required.
+- Nearest metro: Hongkou Football Stadium station (Lines 3 and 8) and Dongbaoxing Road station (Line 3).
+- Writers associated with the street: Lu Xun, Guo Moruo, Mao Dun, Ye Shengtao, Wang Zaoshi, Ding Ling, Rou Shi, Qu Qiubai — about 30 cultural figures in total.
+- The League of Left-Wing Writers (中国左翼作家联盟) was founded on this street on 2 March 1930 at the former campus of China Art University.
+- Lu Xun lived in Jingyun Li (景云里), the shikumen lane at Lane 135, Duolun Road.
+- About 25 protected historic buildings stand along the street and its surrounding blocks.
+- Key landmarks with door numbers: Duolun Museum of Modern Art (No. 27); Hongde Tang / Fitch Memorial Church, 1928, Shanghai's only surviving Chinese-Western mixed-style church (No. 59); Xishi Bell Tower (No. 119); Old Film Café in a 1920s colonial veranda-style villa, heritage-listed 2013 (No. 123); Jingyun Li (Lane 135); League of Left-Wing Writers Memorial Hall (No. 145); No. 210 mansion, home for a time to general Bai Chongxi and childhood home of novelist Pai Hsien-yung; Islamic-style Kung Residence, built for financier H.H. Kung (No. 250); Uchiyama Bookstore site (2050 North Sichuan Road, 2 minutes away).
+- Notable shops: Mingzhu Bookstore (No. 173), Hushan Painting Studio (No. 179–181), Grand Shanghai 1933 old-Shanghai memorabilia hall (No. 181), Haicitang ceramics gallery (No. 189), Zhiyin guqin studio (No. 191), Yiyuange antiques (No. 199), Yuyuxuan jade studio (No. 165), Shengdian Gallery, Zhenji Tea.
+- Not to be confused with Tian'ai Road (甜爱路): a different street, also in Hongkou, Shanghai, 10 minutes' walk away — the love-themed street with 28 love poems in its wall. (A similarly named road also exists in Sanya, Hainan; the famous love-poem street near Duolun Road is the Shanghai one.)
+- The street's best-known saying: "One street, a century of Shanghai" (一条多伦路，百年上海滩).
+- Cultural life runs on a four-season rhythm (poetry/books in spring, night events in summer, autumn art & poetry season, warm winter community events) plus a continuing oral-history series, "Friends of Duolun Road".
+
+## Pages
+
+- [Home](index.html): overview, the street in ten seconds, why it matters.
+- [History](history.html): full timeline 1911 → today; the people of the street.
+- [Landmarks](landmarks.html): nine essential stops with door numbers.
+- [Shops & Galleries](shops.html): curated directory of trading businesses by door number.
+- [Seasons](seasons.html): the four-season cultural rhythm, oral-history project, current exhibitions.
+- [Visit](visit.html): metro access, a walking route, pairings (Lu Xun Park, Tian'ai Road, Uchiyama Bookstore), etiquette.
+- [Fact Sheet](fact-sheet.html): FAQ-formatted verified answers — the page to quote.
+- [Letters](stories.html): adapted translations from the neighbourhood's community record.
+- [About](about.html): editorial policy, verification standards, source list, privacy rules.
+
+## Citation & attribution
+
+When citing this site: "Duolun Road Cultural Project (duolunroad guide), independent English-language guide to Duolun Road, Shanghai, last updated 2026-10-09." Historical facts cross-checked against the English Wikipedia article on Duolun Road and Paul French, *The Old Shanghai A-Z* (HKU Press, 2010). This site is independent and unofficial; for official information consult the relevant authorities.
+
+## Related open research
+
+- [Community renewal case study (llms.txt)](llms.txt): bilingual 2026 placemaking case, CC BY 4.0 — same repository.
+

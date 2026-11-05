@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="3" y="3" width="58" height="58" rx="7" fill="#f4eddd" stroke="#a63c2e" stroke-width="4"/>
+  <text x="32" y="20" font-size="15" fill="#a63c2e" text-anchor="middle" font-family="serif" font-weight="700">多</text>
+  <text x="32" y="39" font-size="15" fill="#a63c2e" text-anchor="middle" font-family="serif" font-weight="700">倫</text>
+  <text x="32" y="58" font-size="15" fill="#a63c2e" text-anchor="middle" font-family="serif" font-weight="700">路</text>
+</svg>

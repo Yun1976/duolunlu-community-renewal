@@ -2,7 +2,7 @@
 
 **How a 30-year-old "culture street" was re-opened through conversation, diagnosis, and small visible moves.**
 Urban renewal · community placemaking · heritage-led regeneration · Shanghai, China
-[中文版 README](#中文摘要) · [Read the case (English)](docs/case-en.md) · [阅读案例（中文）](docs/case-zh.md)
+[中文版 README](#中文摘要) · [Read the case (English)](docs/case-en.md) · [阅读案例（中文）](docs/case-zh.md) · [English visitor guide](https://yun1976.github.io/duolunlu-community-renewal/)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23499786.svg)](https://doi.org/10.5281/zenodo.23499786)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
