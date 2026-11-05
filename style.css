@@ -1,0 +1,132 @@
+/* Duolun Road — One Street, A Century of Shanghai
+   Paper & ink literary design. Zero-JS, crawler-friendly. */
+
+:root{
+  --pap:#f4eddd; --pap2:#ece1c8; --card:#faf5e8;
+  --ink:#3b2f21; --brown:#6b4a2c; --faint:#8a7a5f;
+  --red:#a63c2e; --red2:#8a2f23; --gold:#b8864e; --line:#c9b18a;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:Georgia,'Times New Roman','Noto Serif SC','Songti SC',serif;
+  background:var(--pap); color:var(--ink); line-height:1.75; font-size:17px;
+  background-image:
+    radial-gradient(circle at 15% 8%,#f9f1de 0%,transparent 42%),
+    radial-gradient(circle at 85% 18%,#eddfc0 0%,transparent 45%),
+    radial-gradient(circle at 50% 96%,#e9d8b6 0%,transparent 50%);
+}
+a{color:var(--red);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:880px;margin:0 auto;padding:0 22px}
+
+/* ---------- masthead ---------- */
+.mast{border-bottom:1px solid var(--line);background:rgba(250,244,229,.75)}
+.mast-in{display:flex;align-items:center;gap:16px;padding:18px 0 12px;flex-wrap:wrap}
+.seal{
+  width:58px;height:58px;flex:none;border:2.5px solid var(--red);border-radius:6px;
+  color:var(--red);display:flex;align-items:center;justify-content:center;
+  font-size:19px;font-weight:700;letter-spacing:0;line-height:1.15;
+  writing-mode:vertical-rl;transform:rotate(-2deg);
+  font-family:'Noto Serif SC','Songti SC',serif;
+  box-shadow:inset 0 0 0 1px rgba(166,60,46,.25);
+}
+.brand{display:flex;flex-direction:column;gap:1px}
+.brand b{font-size:26px;letter-spacing:2.5px;color:var(--ink);font-weight:700}
+.brand span{font-size:11.5px;letter-spacing:3px;color:var(--brown)}
+.nav{display:flex;flex-wrap:wrap;gap:2px 18px;padding:0 0 14px;font-size:14.5px}
+.nav a{color:var(--brown);letter-spacing:.5px;padding:2px 0;border-bottom:2px solid transparent}
+.nav a:hover{color:var(--red);text-decoration:none;border-bottom-color:var(--red)}
+.nav a[aria-current=page]{color:var(--red);border-bottom-color:var(--red);font-weight:700}
+
+/* ---------- hero ---------- */
+.hero{padding:54px 0 34px;text-align:center}
+.hero .cn{font-family:'Noto Serif SC','Songti SC',serif;font-size:15px;letter-spacing:10px;color:var(--gold);text-indent:10px}
+.hero h1{font-size:clamp(30px,5.4vw,46px);line-height:1.18;margin:14px 0 10px;letter-spacing:.5px}
+.hero h1 em{font-style:normal;color:var(--red)}
+.hero .sub{font-size:17px;color:var(--brown);max-width:620px;margin:0 auto}
+.hero .zh{font-family:'Noto Serif SC','Songti SC',serif;color:var(--faint);font-size:13px;letter-spacing:4px;margin-top:12px}
+
+.rule{height:1px;background:linear-gradient(90deg,transparent,var(--line) 20%,var(--line) 80%,transparent);margin:30px 0}
+.rule .dot{display:block;width:7px;height:7px;background:var(--gold);transform:rotate(45deg);margin:-4px auto 0}
+
+/* ---------- sections ---------- */
+section{padding:34px 0}
+h2{font-size:27px;letter-spacing:1px;margin-bottom:6px}
+h2 .zh{font-family:'Noto Serif SC','Songti SC',serif;font-size:14px;color:var(--gold);letter-spacing:5px;display:block;margin-top:2px;font-weight:400}
+h3{font-size:19px;margin:26px 0 8px;color:var(--red2)}
+.lead{color:var(--brown);font-size:18px;margin-bottom:16px}
+p{margin:0 0 14px}
+.kicker{font-size:12px;letter-spacing:3px;color:var(--gold);text-transform:uppercase;margin-bottom:8px}
+
+/* fact strip */
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:26px 0}
+.fact{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:16px 14px;text-align:center}
+.fact b{display:block;font-size:24px;color:var(--red);letter-spacing:.5px}
+.fact span{font-size:12.5px;color:var(--brown);letter-spacing:.4px}
+
+/* cards */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px;margin:22px 0}
+.card{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:20px 18px;position:relative}
+.card .no{position:absolute;top:14px;right:14px;font-size:11px;color:var(--gold);letter-spacing:1px}
+.card h4{font-size:16.5px;margin-bottom:4px;color:var(--ink)}
+.card .addr{font-size:12.5px;color:var(--faint);margin-bottom:8px;font-style:italic}
+.card p{font-size:14.5px;margin:0;color:#4c3f2d}
+.card .tag{display:inline-block;font-size:11px;color:var(--red);border:1px solid var(--line);border-radius:20px;padding:1px 10px;margin-bottom:8px;letter-spacing:.5px;background:rgba(166,60,46,.05)}
+
+/* timeline */
+.tl{border-left:2px solid var(--line);margin:24px 0 24px 8px;padding-left:26px}
+.tl .ev{position:relative;margin-bottom:26px}
+.tl .ev::before{content:'';position:absolute;left:-33px;top:7px;width:11px;height:11px;border-radius:50%;background:var(--pap);border:2.5px solid var(--red)}
+.tl .yr{font-size:14px;color:var(--red);font-weight:700;letter-spacing:1.5px}
+.tl b{display:block;font-size:17px;margin:2px 0 4px}
+.tl p{font-size:15.5px;margin:0;color:#4c3f2d}
+
+/* FAQ */
+.faq{margin:18px 0}
+.qa{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:16px 20px;margin-bottom:12px}
+.qa h4{font-size:16px;color:var(--ink);margin-bottom:6px}
+.qa h4::before{content:'Q ';color:var(--red);font-weight:700}
+.qa p{font-size:15px;margin:0;color:#4c3f2d}
+.qa p::before{content:'A ';color:var(--gold);font-weight:700}
+
+/* pull quote */
+blockquote{
+  border-left:3px solid var(--gold);background:rgba(184,134,78,.07);
+  padding:16px 22px;margin:22px 0;border-radius:0 6px 6px 0;
+  font-size:17px;font-style:italic;color:#4c3f2d;
+}
+blockquote .zh{display:block;font-style:normal;font-family:'Noto Serif SC','Songti SC',serif;font-size:13px;color:var(--faint);margin-top:8px;letter-spacing:2px}
+
+/* letter drop cap */
+.dropcap::first-letter{
+  float:left;font-size:56px;line-height:.82;padding:6px 10px 0 0;color:var(--red);font-weight:700;
+}
+
+/* notice boxes */
+.note{border:1px dashed var(--line);border-radius:6px;padding:12px 16px;font-size:13.5px;color:var(--brown);background:rgba(201,177,138,.12);margin:18px 0}
+
+/* tables */
+table{width:100%;border-collapse:collapse;margin:18px 0;font-size:14.5px;background:var(--card)}
+th,td{border:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}
+th{background:rgba(184,134,78,.14);color:var(--brown);font-size:13px;letter-spacing:.5px}
+
+/* street diagram */
+.diagram{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:18px;margin:24px 0;text-align:center}
+.diagram svg{max-width:420px;width:100%;height:auto}
+.diagram figcaption{font-size:12.5px;color:var(--faint);margin-top:8px;font-style:italic}
+
+/* footer */
+footer{border-top:1px solid var(--line);margin-top:50px;padding:26px 0 44px;background:rgba(250,244,229,.6)}
+footer .f-in{display:flex;flex-wrap:wrap;gap:18px;justify-content:space-between;align-items:flex-start}
+footer p{font-size:12.5px;color:var(--faint);margin:0;max-width:520px}
+footer .fseal{width:44px;height:44px;border:2px solid var(--line);border-radius:4px;color:var(--gold);display:flex;align-items:center;justify-content:center;font-size:14px;writing-mode:vertical-rl;font-family:'Noto Serif SC','Songti SC',serif;opacity:.8}
+.updated{font-size:11.5px;color:var(--faint);letter-spacing:.5px}
+
+@media(max-width:640px){
+  body{font-size:16px}
+  .mast-in{gap:12px}
+  .brand b{font-size:21px}
+  .hero{padding:36px 0 24px}
+  section{padding:26px 0}
+}
