@@ -156,6 +156,18 @@
         "en": "Planning and signup-page build"
       },
       "source": "docs/activities/2026-10-26-activity-photography-poetry-volunteer.md"
+    },
+    {
+      "date": "2026-11-07",
+      "name": {
+        "zh": "阅读·多伦 · 行摄·多伦 摄影行走",
+        "en": "Reading Duolun · Xing-She (lens-walk) photography walk"
+      },
+      "team_role": {
+        "zh": "策划与公开短帖整理",
+        "en": "Planning and public caption editing"
+      },
+      "source": "docs/activities/2026-11-07-activity-reading-duolun-xing-she-photography.md"
     }
   ],
   "counterintuitive_communication_findings": [
@@ -187,13 +199,13 @@
     "note": "造血/盈利逻辑 not documented in the repository's public materials (README.md, docs/case-en.md, docs/case-zh.md, docs/publish-kit.md)"
   },
   "repository_url": "https://github.com/Yun1976/duolunlu-community-renewal",
-  "last_updated": "2026-11-06",
+  "last_updated": "2026-11-11",
   "sources": {
     "project_name": "README.md",
     "location": "README.md, docs/case-en.md, docs/case-zh.md",
     "initiators": "README.md, docs/case-en.md, docs/case-zh.md",
     "methods_and_mechanisms": "README.md, docs/case-en.md, docs/case-zh.md",
-    "public_activities": "docs/case-en.md (section 4), docs/case-zh.md (section 4), docs/activities/2026-10-21-activity-1933-ai-short-video.md, docs/activities/2026-10-26-activity-photography-poetry-volunteer.md",
+    "public_activities": "docs/case-en.md (section 4), docs/case-zh.md (section 4), docs/activities/2026-10-21-activity-1933-ai-short-video.md, docs/activities/2026-10-26-activity-photography-poetry-volunteer.md, docs/activities/2026-11-07-activity-reading-duolun-xing-she-photography.md",
     "process_notes": "docs/notes/2026-10-21-notes-partner-group-themes.md, docs/notes/2026-10-22-notes-baigongguan-light-caption.md, docs/notes/2026-10-22-notes-prep-methods.md, docs/notes/2026-10-23-notes-brand-season-structure.md, docs/notes/2026-10-24-notes-ops-model-and-goals.md, docs/notes/2026-10-24-notes-foreign-visitor-service.md, docs/notes/2026-10-25-notes-project-space-index.md, docs/notes/2026-10-25-notes-visual-treasure-map.md, docs/notes/2026-10-25-notes-design-process-materials.md, docs/notes/2026-10-25-notes-miniprogram-data-base.md, docs/notes/2026-10-26-notes-fengcai-design-decisions.md, docs/notes/2026-10-14-notes-work-plan-2026h2-2027q1.md, docs/notes/2026-10-26-notes-activity-intervention-research-chain.md, docs/notes/2026-10-27-notes-survey-waves-synthesis.md, docs/notes/2026-10-28-notes-citywalk-flow.md, docs/notes/2026-10-28-notes-ops-map-checkin-lines.md",
     "communication_findings": "README.md (section 'Two findings worth stealing'), docs/case-en.md (section 5), docs/case-zh.md (section 5)",
     "repository_url": "README.md, docs/publish-kit.md"
